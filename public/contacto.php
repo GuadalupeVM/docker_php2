@@ -10,6 +10,8 @@
     <div class="container">
         <h1>Información sobre mí</h1>
         <p>Nombre: Tu Nombre</p>
+        <p>Direccion: San Juan Hueyapan, Huasca de Ocampo, Hgo.</p>
+        <p>Edad: 21 años</p>
         <img src="img/mi_image.jpeg" alt="Tu Imagen" />
         <p><a href="index.php">Volver a Inicio</a></p>
     </div>
